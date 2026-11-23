@@ -3,16 +3,16 @@
 <div align="center">
 
 ```
-hi, i'm lucas! (>ω<)
-i build tools, bots & automations ⛤
+hi, i'm lucas! XD
+i build tools, bots & automations
 ```
 
 </div>
 
 ```
-☆ it support & sysadmin
-☆ stack: kotlin · golang · c++ · js · python · linux
-☆ into: tech · anime · cs2 · automations
+it support & sysadmin
+stack: kotlin · golang · c++ · js · python · linux
+into: tech · anime · cs2 · automations
 ```
 
 <div align="center">
