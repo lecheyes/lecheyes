@@ -14,7 +14,7 @@
 <img src="https://count.getloli.com/@:lucasmldy?theme=kyun&scale=1.5" alt=":lucasmldy" />
 <br><br>
 
-[![](https://img.shields.io/badge/github-0d1117?logo=github&logoColor=white)](https://github.com/lucasmldy)
+[![](https://img.shields.io/badge/github-0d1117?logo=github&logoColor=white)](https://github.com/lecheyes)
 [![](https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1546604085434777620)
 [![](https://img.shields.io/badge/steam-171a21?logo=steam&logoColor=white)](https://steamcommunity.com/id/lecheyes)
 </div>
