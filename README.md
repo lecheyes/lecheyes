@@ -17,6 +17,7 @@
 [![](https://img.shields.io/badge/github-0d1117?logo=github&logoColor=white)](https://github.com/lecheyes)
 [![](https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1546604085434777620)
 [![](https://img.shields.io/badge/steam-171a21?logo=steam&logoColor=white)](https://steamcommunity.com/id/lecheyes)
+[![](https://img.shields.io/badge/soundcloud-ff5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/nobru-apeloresvisk)
 </div>
 
 <br clear="both"/>
