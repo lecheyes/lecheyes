@@ -1,4 +1,4 @@
-<img src="art.gif" align="right" width="260" alt="art"/>
+<img src="art.gif?v=2" align="right" width="260" alt="art"/>
 
 <div align="center">
 
