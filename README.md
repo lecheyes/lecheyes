@@ -1,30 +1,22 @@
-<img src="art.gif?v=2" align="right" width="260" alt="art"/>
-
 <div align="center">
+<img src="art.gif?v=2" width="260" align="right" alt="art" />
+<img src="https://readme-typing-svg.demolab.com?font=Geo&weight=600&duration=2500&pause=500&color=AAAAAA&center=true&vCenter=true&multiline=true&repeat=false&width=450&height=75&lines=hi%2C+i'm+lucas!+%28%3E%E2%A9%8A%3C%29;i+build+tools%2C+bots+%26+automations+%E2%9B%A7" width="70%" alt="hi, i'm lucas!" />
+<br><br>
 
-```
-hi, i'm lucas! XD
-i build tools, bots & automations
-```
+<samp>
+<img src="dead.gif" width="18" height="18" />&nbsp;&nbsp;it support &amp; sysadmin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<img src="dead.gif" width="18" height="18" />&nbsp;&nbsp;kotlin &middot; golang &middot; c++ &middot; js &middot; python &middot; linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<img src="dead.gif" width="18" height="18" />&nbsp;&nbsp;probably building some bot or automation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<img src="dead.gif" width="18" height="18" />&nbsp;&nbsp;i like tech, anime, cs2 &amp; automations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+</samp>
 
-</div>
+<br>
+<img src="https://count.getloli.com/@:lucasmldy?theme=kyun&scale=1.5" alt=":lucasmldy" />
+<br><br>
 
-```
-it support & sysadmin
-stack: kotlin · golang · c++ · js · python · linux
-into: tech · anime · cs2 · automations
-```
-
-<div align="center">
-
-<img src="https://count.getloli.com/@:lucasmldy?theme=kyun&scale=1.5" alt="visitor counter"/>
-
-<br/>
-
-[![github](https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasmldy)
-[![discord](https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1546604085434777620)
-[![steam](https://img.shields.io/badge/steam-171a21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/lecheyes)
-
+[![](https://img.shields.io/badge/github-0d1117?logo=github&logoColor=white)](https://github.com/lucasmldy)
+[![](https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1546604085434777620)
+[![](https://img.shields.io/badge/steam-171a21?logo=steam&logoColor=white)](https://steamcommunity.com/id/lecheyes)
 </div>
 
 <br clear="both"/>
