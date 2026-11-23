@@ -11,7 +11,7 @@
 </samp>
 
 <br>
-<img src="https://count.getloli.com/@:lucasmldy?theme=kyun&scale=1.5" alt=":lucasmldy" />
+<img src="https://count.getloli.com/@:lecheyes?theme=kyun&scale=1.5" alt=":lecheyes" />
 <br><br>
 
 [![](https://img.shields.io/badge/github-0d1117?logo=github&logoColor=white)](https://github.com/lecheyes)
