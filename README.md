@@ -1,5 +1,5 @@
 <div align="center">
-<img src="art.gif?v=2" width="30%" align="right" alt="art" />
+<img src="art.gif?v=2" width="25%" align="right" alt="art" />
 <img src="https://readme-typing-svg.demolab.com?font=Geo&weight=600&duration=2500&pause=500&color=AAAAAA&center=true&vCenter=true&multiline=true&repeat=false&width=450&height=75&lines=hi%2C+i'm+lucas!+XD;i+build+tools%2C+bots+%26+automations" width="70%" alt="hi, i'm lucas!" />
 <br><br>
 
