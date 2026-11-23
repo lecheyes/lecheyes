@@ -22,8 +22,8 @@ i build tools, bots & automations ⛤
 <br/>
 
 [![github](https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasmldy)
-[![discord](https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/SEU_ID)
-[![steam](https://img.shields.io/badge/steam-171a21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/SEU_ID)
+[![discord](https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1546604085434777620)
+[![steam](https://img.shields.io/badge/steam-171a21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/lecheyes)
 
 </div>
 
