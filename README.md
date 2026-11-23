@@ -4,10 +4,10 @@
 <br><br>
 
 <samp>
-<img src="dead.gif" width="18" height="18" />&nbsp;&nbsp;it support &amp; sysadmin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<img src="dead.gif" width="18" height="18" />&nbsp;&nbsp;kotlin &middot; golang &middot; c++ &middot; js &middot; python &middot; linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<img src="dead.gif" width="18" height="18" />&nbsp;&nbsp;probably building some bot or automation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<img src="dead.gif" width="18" height="18" />&nbsp;&nbsp;i like tech, anime, cs2 &amp; automations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<img src="dead.gif" width="18" height="18" />&nbsp;&nbsp;devops engineer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<img src="dead.gif" width="18" height="18" />&nbsp;&nbsp;kotlin &middot; golang &middot; c++ &middot; js &middot; python &middot; linux<br>
+<img src="dead.gif" width="18" height="18" />&nbsp;&nbsp;probably building some bot or automation&nbsp;&nbsp;&nbsp;<br>
+<img src="dead.gif" width="18" height="18" />&nbsp;&nbsp;i like tech, anime, cs2 &amp; automations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 </samp>
 
 <br>
